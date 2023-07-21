@@ -20,6 +20,7 @@ const Navbar = () => {
                 </Link>
             </div>
         </div>
+        <h2>Kiyaareeeeee</h2>
         <div className='flex flex-row items-center'>
             <div className='w-[593px] bg-yt-black flex border border-yt-light-black items-center rounded-3xl h-10'>
                 <input 
